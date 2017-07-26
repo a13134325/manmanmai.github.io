@@ -1,0 +1,19 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+  -webkit-tap-highlight-color:transparent;
+}
+ul,ol{
+  list-style: none;
+}
+input{
+  border:none;
+  outline: none;
+}
+img{
+  display: block;
+}
